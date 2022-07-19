@@ -40,7 +40,5 @@ This repo is built following a tutorial published on CircleCI blog under the Cir
 -   Author's GitHub profile: [Fikayo Adepoju][author]
 
 ### About CircleCI Guest Writer Program
-
-
 [blog]: https://circleci.com/blog/continuous-integration-for-progressive-web-apps/
 [author]: https://github.com/coderonfleek
